@@ -1,0 +1,20 @@
+body
+{
+background:url('jessa2.jpg');
+background-repeat:no-repeat;
+background-size:1600px 900px;
+background-position: -200px -70px;
+
+}
+.colum
+{
+    font-weight: bolder;
+    color: rgba(88, 2, 62, 0.986)
+    ;
+   border:2px solid #000000; padding: 30px 60px;
+
+   margin-top: 10vh;
+   -webkit-box-shadow: 1px 4px 2px 5px rgba(0,0,0,1);
+  -moz-box-shadow: 1px 4px 2px 5px rgba(0,0,0,1);
+  box-shadow: 1px 4px 2px 5px rgba(0,0,0,1);
+}

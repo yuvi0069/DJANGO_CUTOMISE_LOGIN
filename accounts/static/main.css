@@ -1,0 +1,48 @@
+.navbar,.nav-link
+{
+    background-color:black;
+    color:wheat;
+    font-weight: bold;
+}
+body
+{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+}
+.g
+{
+    position: relative;
+    top: 68px;
+}
+.r
+{
+   position: relative;
+   bottom: -50px;
+}
+.bh{
+    position: relative;
+    left: 150px; ;
+}
+.container{
+    width: 800px;
+    margin: -5px auto 0;
+    display: table;
+    box-sizing: border-box;
+    border-right: 20px solid black;
+}
+.row
+{
+    margin: 15px 0;
+}
+.card
+{
+    padding:10px;
+    width: 33.33%;
+    vertical-align: middle;
+     background: black;
+     border-left: 10px solid black;
+     border-right: 10px solid black;
+    
+}
